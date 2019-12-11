@@ -7,7 +7,7 @@ broken down as __"the 4 R's"__, as follows:
 1. Research
 2. Read
 3. Render (translate)
-4. Repeat (challenges)
+4. Rewrite (challenges)
 ```
 ### Step 1: Research
 My first step when approaching a new language is to spend some time familiarising
@@ -93,7 +93,7 @@ explained properly in little snippets of code. Also, just because code *can* be
 written in a directly-translatable manner, this doesn't mean that it *should*.
 This is where the final step comes in.
 
-### Step 4: Repeat Challenges
+### Step 4: Rewrite Challenges
 For the final step, I take the knowledge that I've gained through my research and
 rendering of code snippets in the new language, and apply this to some coding
 challenges. I like to begin with exercises that I've completed recently, so that
