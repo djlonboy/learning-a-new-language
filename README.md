@@ -77,7 +77,7 @@ Here is an example of a table I made to translate Ruby into JavaScript:
 
 
 In addition to the obvious benefit of building a cheat-sheet which I can refer
-to when beginning to write in the new language, there is another really useful
+to when writing in the new language, there is another really useful
 advantage to this step, which is that it highlights any variations or idioms
 which are specific to that language.
 
